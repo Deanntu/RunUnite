@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "DCEDAFEA-ED23-4DBC-A71C-C5CD7F6F5210"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1C903F28-B525-4E9E-8BD1-A88C71A815E7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Downloads/CityDataSource.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "getListOfCities()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1C903F28-B525-4E9E-8BD1-A88C71A815E7 - 5c80890b47da33cf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "rununite.CityDataSource.getListOfCities() -&gt; ()"
+                  moduleName = "rununite"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lab/Downloads/CityDataSource.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "257">
+               </Location>
+               <Location
+                  uuid = "1C903F28-B525-4E9E-8BD1-A88C71A815E7 - f6649c94c540c6e5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.FIRDataSnapshot) -&gt; () in rununite.CityDataSource.getListOfCities() -&gt; ()"
+                  moduleName = "rununite"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lab/Downloads/CityDataSource.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "170">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

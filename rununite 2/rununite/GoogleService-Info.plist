@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>628032081096-7qa5ge32ritg90u6a66irmtas5en5gtm.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.628032081096-7qa5ge32ritg90u6a66irmtas5en5gtm</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCKZjYWrA7e6yxVnFwI1Me9YivmEigHxbA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>628032081096</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.rununite.rununite</string>
+	<key>PROJECT_ID</key>
+	<string>rununite-319b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>rununite-319b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:628032081096:ios:6af35c6142cdc97d5629fd</string>
+	<key>DATABASE_URL</key>
+	<string>https://rununite-319b-default-rtdb.europe-west1.firebasedatabase.app</string>
+</dict>
+</plist>
